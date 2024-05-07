@@ -1,0 +1,48 @@
+.header-menu{
+    max-width: 1300px;
+    margin: auto;
+    background-color:black ;
+}
+.menu-img img{
+    height: 60px;
+    background-color: black;
+}  
+.menu{
+    padding: 15px 0px;
+    display: flex;
+    justify-content: center;
+}
+.menu ul{
+    text-align: center;
+    list-style: none; 
+    display: flex;
+}
+.menu ul li{}
+.menu ul li a{
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 2px solid #fff;
+    margin-left: 10px;
+    line-height: 50px;
+}
+.row-1{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    
+}
+.row-1 .stert-content{
+    color: #fff;
+    background-color: red;
+    
+}
+.row-1 .center-content{
+    color: #fff;
+    background-color: red;
+}
+.row-1 .end-content{
+    color: #fff;
+    background-color: red;
+}
